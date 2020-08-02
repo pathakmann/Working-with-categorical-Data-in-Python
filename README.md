@@ -8,4 +8,4 @@ https://www.kaggle.com/fivethirtyeight/fivethirtyeight-flying-etiquette-survey-d
 2. 2017 Kaggle ML & DS Survey
 https://www.kaggle.com/kaggle/kaggle-survey-2017
 
-The Datasets can be downloaded from the repo.
+The Datasets can be downloaded from the Datasets folder in the repo.
